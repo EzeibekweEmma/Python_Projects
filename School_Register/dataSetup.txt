@@ -1,0 +1,6 @@
+{
+  "class_1": {
+    "total_num": 0,
+    "students": []
+  }
+}
